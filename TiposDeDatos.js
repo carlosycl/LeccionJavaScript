@@ -45,3 +45,14 @@ class Persona{
 //Tipo null object
 var y = null;
 console.log(typeof y)
+
+//Array 
+var cadena = ['Carlos', 'Geral'];
+console.log(typeof cadena);
+console.log(cadena);
+
+//variable vacia 
+
+var a = '';
+console.log(a);
+console.log(typeof a)
